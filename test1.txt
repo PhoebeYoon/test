@@ -1,0 +1,2 @@
+첫번째 변화
+untracted 상태에서  tracked 상태로 바뀜
